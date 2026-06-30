@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning how to code by working on personal projects
 - 👯 I’m looking to collaborate on science, health, and education ideas!
 
