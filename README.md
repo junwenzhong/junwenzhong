@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning how to code by working on personal projects
+- 👯 I’m looking to collaborate on science, health, and education ideas!
+
 <!--
 **junwenzhong/junwenzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
