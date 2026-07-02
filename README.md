@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning how to code by working on personal projects
-- 👯 I’m looking to collaborate on science, health, and education ideas!
+- 🌱 Learning by building 
+- 👯 Interests: science, systems, health, and education 
 
 <!--
 **junwenzhong/junwenzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
